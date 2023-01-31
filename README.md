@@ -9,7 +9,7 @@ When coming to this new technology, it can't be too careful for teachers to thor
 
 
 
-## Article 2: ChatGPT, friends or foe?
+## Article 2: ChatGPT, Friends or Foe?
 Although WIRED's argument suspected the ChatGPT in terms of educaitonal plagiarism, BROOKINGS's [ChatGPT: Educational friend or foe?](https://www.brookings.edu/blog/education-plus-development/2023/01/09/chatgpt-educational-friend-or-foe/) started with its own motto: "Used in the right way, ChatGPT can be a friend to the classroom and an amazing tool for our students, not something to be feared". The advantage of the ChatGPT is that it shifts the education from point-orientated to knowledge-orientated. The plagiarism issue discussed above examplified the pursuit of higher points in the exam, which diverged from the essence of education.
 
 
